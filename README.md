@@ -12,7 +12,7 @@ I love exploring new technologies and constantly improving my skills. Having rec
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,sass,bootstrap,js,ruby,rails,heroku,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,sass,bootstrap,js,ruby,rails,heroku,postgres,figma&theme=light" />
   </a>
 </p>
 
